@@ -13,52 +13,52 @@
 ## 基础教程
 
 - 数据库
-  - 第 1 篇：[数据库](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/database.md)
-  - 第 2 篇：[关系型数据库](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/relation-db.md)
+  - 第 1 篇：[数据库](./articles/database.md)
+  - 第 2 篇：[关系型数据库](./articles/relation-db.md)
 - MySQL数据库  
-  - 第 3 篇：[MySQL 数据库](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/mysql_db.md)
-  - 第 4 篇：[SQL 基本操作](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/sql-operation.md)
-  - 第 5 篇：[中文数据问题](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/chinese-data.md)
-  - 第 6 篇：[校对集问题](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/collate.md)
-  - 第 7 篇：[列类型](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/column-type.md)
-  - 第 8 篇：[记录长度](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/record-length.md)
+  - 第 3 篇：[MySQL 数据库](./articles/mysql_db.md)
+  - 第 4 篇：[SQL 基本操作](./articles/sql-operation.md)
+  - 第 5 篇：[中文数据问题](./articles/chinese-data.md)
+  - 第 6 篇：[校对集问题](./articles/collate.md)
+  - 第 7 篇：[列类型](./articles/column-type.md)
+  - 第 8 篇：[记录长度](./articles/record-length.md)
 - 列属性
-  - 第 9 篇：[列属性 之 空属性、列描述和默认值](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/column-null-comment-default.md)
-  - 第 10 篇：[列属性 之 主键](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/primarykey.md)
-  - 第 11 篇：[列属性 之 自动增长](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/increment.md)
-  - 第 12 篇：[列属性 之 唯一键](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/uniquekey.md)
+  - 第 9 篇：[列属性 之 空属性、列描述和默认值](./articles/column-null-comment-default.md)
+  - 第 10 篇：[列属性 之 主键](./articles/primarykey.md)
+  - 第 11 篇：[列属性 之 自动增长](./articles/increment.md)
+  - 第 12 篇：[列属性 之 唯一键](./articles/uniquekey.md)
 - 索引、关系及范式
-  - 第 13 篇：[索引](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/index.md)
-  - 第 14 篇：[关系](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/relation.md)
-  - 第 15 篇：[范式](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/paradigm.md)
+  - 第 13 篇：[索引](./articles/index.md)
+  - 第 14 篇：[关系](./articles/relation.md)
+  - 第 15 篇：[范式](./articles/paradigm.md)
 - 高级操作
-  - 第 16 篇：[数据的高级操作 之 主键冲突](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/duplicate-primary-key.md)
-  - 第 17 篇：[数据的高级操作 之 蠕虫复制](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/worm-copy.md)
-  - 第 18 篇：[数据的高级操作 之 更新 & 删除](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/updata-and-delete.md)
-  - 第 19 篇：[数据的高级操作 之 查询](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/select.md)
+  - 第 16 篇：[数据的高级操作 之 主键冲突](./articles/duplicate-primary-key.md)
+  - 第 17 篇：[数据的高级操作 之 蠕虫复制](./articles/worm-copy.md)
+  - 第 18 篇：[数据的高级操作 之 更新 & 删除](./articles/updata-and-delete.md)
+  - 第 19 篇：[数据的高级操作 之 查询](./articles/select.md)
 - 查询
-  - 第 20 篇：[连接查询](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/join-query.md)
-  - 第 21 篇：[外键](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/foreign-key.md)
-  - 第 22 篇：[联合查询](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/union.md)
-  - 第 23 篇：[子查询](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/sub-query.md)
+  - 第 20 篇：[连接查询](./articles/join-query.md)
+  - 第 21 篇：[外键](./articles/foreign-key.md)
+  - 第 22 篇：[联合查询](./articles/union.md)
+  - 第 23 篇：[子查询](./articles/sub-query.md)
 - 视图
   - 第 24 篇：[视图（上）](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/view-one.md)
-  - 第 25 篇：[视图（下）](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/view-two.md)
+  - 第 25 篇：[视图（下）](./articles/view-two.md)
 - 备份及还原
-  - 第 26 篇：[数据备份与还原](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/backup.md)
+  - 第 26 篇：[数据备份与还原](./articles/backup.md)
 - 事物
-  - 第 27 篇：[事务（上）](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/thing-one.md)
-  - 第 28 篇：[事务（下）](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/thing-two.md)
+  - 第 27 篇：[事务（上）](./articles/thing-one.md)
+  - 第 28 篇：[事务（下）](./articles/thing-two.md)
 - 数据库变量
-  - 第 29 篇：[数据库变量](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/database-variable.md)
+  - 第 29 篇：[数据库变量](./articles/database-variable.md)
 - 触发器
-  - 第 30 篇：[触发器](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/trigger.md)
+  - 第 30 篇：[触发器](./articles/trigger.md)
 - 代码执行结构
-  - 第 31 篇：[代码执行结构](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/code-execution-structure.md)
+  - 第 31 篇：[代码执行结构](./articles/code-execution-structure.md)
 - 函数
-  - 第 32 篇：[函数](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/function.md)
+  - 第 32 篇：[函数](./articles/function.md)
 - 存储结构
-  - 第 33 篇：[存储结构](https://github.com/guobinhit/mysql-tutorial/blob/master/articles/procedure.md)
+  - 第 33 篇：[存储结构](./articles/procedure.md)
 
 
 ## 教程相关
